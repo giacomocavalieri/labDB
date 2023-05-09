@@ -10,7 +10,7 @@ L'obiettivo dell'esercitazione è prendere confidenza con l'API JDBC; vedremo co
 ## Setup
 - Forkare il [repository dell'esercitazione](https://github.com/giacomocavalieri/labDB)
 - Clonare il repo forkato
-- Aprire il progetto in Eclipse
+- Aprire il progetto in IntelliJ
 - Creare il database `"labjdbc"` su MySQL
 
 ---
